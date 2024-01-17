@@ -13,6 +13,7 @@ To get started with practicing automated tests, follow these steps:
 Ensure you have the following prerequisites installed:
 
 - Install Node.js: [Download and Install Node.js](https://nodejs.org/)
+
 - Install Selenium WebDriver: `npm install selenium-webdriver`
 
 ### Test Scripts
