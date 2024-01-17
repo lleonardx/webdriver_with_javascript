@@ -16,6 +16,6 @@ Ensure you have the following prerequisites installed:
 
 - Install Selenium WebDriver: `npm install selenium-webdriver`
 
-### Test Scripts
+### Running Test Scripts
 
 Running tests: `npm test`
