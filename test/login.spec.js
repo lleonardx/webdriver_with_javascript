@@ -37,8 +37,6 @@ describe('Teste de login', () =>{
         const errorMessage = await navegador.findElement({ className: 'error-message-container' }).getText('Epic sadface: Username and password do not match any user in this service');
         console.log(errorMessage);
 
-        
-
     });
 
 
